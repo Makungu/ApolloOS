@@ -1,1 +1,1 @@
-Worker: node ./apollo.js 
+Worker: node apollo.js 
